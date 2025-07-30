@@ -136,7 +136,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=d-moco&color=667eea&style=for-the-badge&label=访问量" />
-<img src="https://img.shields.io/github/commit-activity/y/d-moco/d-moco?color=764ba2&style=for-the-badge&label=年度提交" />
+
 
 
 <br><br>
