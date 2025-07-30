@@ -117,7 +117,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=2000&color=667EEA&center=true&vCenter=true&width=500&lines=✨+用代码创造无限可能;🚀+探索技术的边界;💡+让创意照亮未来" alt="Footer Typing SVG" />
 
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=d-moco&color=667eea&style=for-the-badge&label=访问量" />
+<img src="https://img.shields.io/github/commit-activity/y/d-moco/d-moco?color=764ba2&style=for-the-badge&label=年度提交" />
+</div>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=d-moco&bg_color=1a1a2e&color=667eea&line=764ba2&point=00ff00&area=true&hide_border=true" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 
