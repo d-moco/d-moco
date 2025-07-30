@@ -103,11 +103,9 @@
 <img src="https://img.shields.io/badge/📧_邮箱-dmoco997@163.com-667eea?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/moco">
-<img src="https://img.shields.io/badge/🐙_GitHub-@moco-764ba2?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/d-moco">
+<img src="https://img.shields.io/badge/🐙_GitHub-@d--moco-764ba2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<img src="https://img.shields.io/badge/💬_QQ-点击获取-667eea?style=for-the-badge&logo=tencentqq&logoColor=white" />
 
 </div>
 
@@ -119,7 +117,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=2000&color=667EEA&center=true&vCenter=true&width=500&lines=✨+用代码创造无限可能;🚀+探索技术的边界;💡+让创意照亮未来" alt="Footer Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=moco&color=667eea&style=for-the-badge&label=访问量" />
+<img src="https://komarev.com/ghpvc/?username=d-moco&color=667eea&style=for-the-badge&label=访问量" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 
